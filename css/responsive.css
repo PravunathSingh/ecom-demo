@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+@media  screen and (max-width: 425px){
+	.centered-text1{
+		top: 60%!important;
+		left: 37.5%;
+	}
+	.centered-text1 h4{
+		font-size: 18px;
+	}
+	.font-size6{
+		font-size: 20px!important;
+	}
+	.button_su_inner{
+		padding: 0px;
+	}
+}
+
+@media screen and (max-width: 576px){
+	
+}
+
+@media screen and (max-width: 768px){
+	.centered-text1{
+		top: 75%;
+		left: 37.5%;
+	}
+}
+
+@media screen and (max-width: 992px){
+	
+}
+@media all and (max-width: 1024px){
+	
+}
